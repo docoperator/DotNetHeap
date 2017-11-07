@@ -1,0 +1,9 @@
+C:\Projects\CoreHeap\CoreHeap\bin\Debug\netcoreapp1.1\CoreHeap.deps.json
+C:\Projects\CoreHeap\CoreHeap\bin\Debug\netcoreapp1.1\CoreHeap.runtimeconfig.json
+C:\Projects\CoreHeap\CoreHeap\bin\Debug\netcoreapp1.1\CoreHeap.runtimeconfig.dev.json
+C:\Projects\CoreHeap\CoreHeap\bin\Debug\netcoreapp1.1\CoreHeap.dll
+C:\Projects\CoreHeap\CoreHeap\bin\Debug\netcoreapp1.1\CoreHeap.pdb
+C:\Projects\CoreHeap\CoreHeap\obj\Debug\netcoreapp1.1\CoreHeap.csprojResolveAssemblyReference.cache
+C:\Projects\CoreHeap\CoreHeap\obj\Debug\netcoreapp1.1\CoreHeap.AssemblyInfo.cs
+C:\Projects\CoreHeap\CoreHeap\obj\Debug\netcoreapp1.1\CoreHeap.dll
+C:\Projects\CoreHeap\CoreHeap\obj\Debug\netcoreapp1.1\CoreHeap.pdb
